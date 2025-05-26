@@ -1,0 +1,6 @@
+train: C:\Users\sanji\PycharmProjects\CVTrainingTest\yolo_11_custom\train
+val: C:\Users\sanji\PycharmProjects\CVTrainingTest\yolo_11_custom\val
+
+nc: 2
+
+names: ["greenlight", "redlight"]
